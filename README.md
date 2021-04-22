@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**nschmer/nschmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there!
 
 My name is Natalie and I'm a second year M.S. student at Colorado State University in the Graduate Degree Program in Ecology
 
@@ -10,4 +7,3 @@ My name is Natalie and I'm a second year M.S. student at Colorado State Universi
 - 📫 How to reach me: email (nschmer@colostate.edu) or find me on Twitter (@NatKSchmer)
 - 💁 Pronouns: she/her/hers
 - ✨ Fun fact ✨ I majored in geology in undergrad and if I had to choose a different career I'd definitely be a volcanologist or work on geohazards 🌋
--->
